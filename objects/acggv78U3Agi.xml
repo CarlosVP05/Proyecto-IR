@@ -8,15 +8,15 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Usuario: Persona que usará el sistema.
 
-RF: Requisito funcional
+RF: Requisito funcional.
 
-RNF: Requisito no funcional
+RNF: Requisito no funcional.
 
-FOR-XX: Fortaleza número XX del sistema
+FOR-XX: Fortaleza número XX del sistema.
 
-DEB-XX: Debilidad número XX del sistema
+DEB-XX: Debilidad número XX del sistema.
 
-Stock: Reservas de un producto almacenados para su futura venta]]></markdownProperty>
+Stock: Reservas de un producto almacenados para su futura venta.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

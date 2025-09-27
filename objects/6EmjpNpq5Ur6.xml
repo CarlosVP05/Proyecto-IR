@@ -6,9 +6,9 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[DEB-01: Servicios descentralizados, cada producto es ofrecido en una oferta de web tercera, por ejemplo Amazon
+    <markdownProperty name="text" category="detail"><![CDATA[DEB-01: Servicios descentralizados, cada producto es ofrecido en una oferta de web tercera, por ejemplo Amazon.
 
-DEB-02: Poca informacion de las transacciones realizadas]]></markdownProperty>
+DEB-02: Poca informacion de las transacciones realizadas.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
