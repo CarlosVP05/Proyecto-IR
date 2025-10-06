@@ -92,5 +92,9 @@ opened_views:
 - default
 selected_document: ers
 selected_objects:
+<<<<<<< Updated upstream
   ers: 3s3BTis2oHoE
+=======
+  ers: 5TY6rZPREaZg
+>>>>>>> Stashed changes
 selected_view: default
